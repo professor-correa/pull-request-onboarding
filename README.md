@@ -5,4 +5,18 @@ Repositório para fazer a integração e conexão dos alunos via Pull Request.
 <!-- Coloque seu usuário do GitHub -->
 @lucascorreaa
 @mozzergrozzer
+@Felipe
+@rafaaagit
+@AgblDEV
+@Ryan-Silva19
+@LucabFusco
+@iscaboy 
+@thamirisiamdev
+@MiriOliveiraFernandes
+@yDenBarbosa
+@otavio-galdino
+@carolinevsant
+@Brunobarbosa-Tech
+@jp-ql
+@GTrajano7
 @GoBrazill
