@@ -14,3 +14,4 @@ Repositório para fazer a integração e conexão dos alunos via Pull Request.
 @thamirisiamdev
 @MiriOliveiraFernandes
 @yDenBarbosa
+@otavio-galdino
