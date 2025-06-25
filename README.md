@@ -19,3 +19,4 @@ Repositório para fazer a integração e conexão dos alunos via Pull Request.
 @Brunobarbosa-Tech
 @jp-ql
 @GTrajano7
+@GoBrazill
