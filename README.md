@@ -11,3 +11,4 @@ Repositório para fazer a integração e conexão dos alunos via Pull Request.
 @Ryan-Silva19
 @LucabFusco
 @iscaboy 
+@thamirisiamdev
