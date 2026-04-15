@@ -34,6 +34,7 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @TiagoAntunes-Dev
 @cofeezz
 @ikaroB-code
+@danielfontz
 
 ---
 
