@@ -36,8 +36,10 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @ikaroB-code
 @danielfontz
 @crizzila
+@andreemartinns
+@Kaicius
+@Vikai23
 @Rafa-Dev21
-
 
 ---
 
