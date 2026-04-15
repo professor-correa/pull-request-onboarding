@@ -31,7 +31,12 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @jaypqueiroz
 @GTrajano7
 @GoBrazill
+@TiagoAntunes-Dev
+@cofeezz
+@ikaroB-code
+@danielfontz
 @crizzila
+
 
 ---
 
