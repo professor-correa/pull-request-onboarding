@@ -42,6 +42,7 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @Rafa-Dev21
 @henriqueramoss-dev
 @ErickOliveira431
+
 ---
 
 ## Passo a passo
