@@ -58,7 +58,10 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @Mirella-Bertoloti
 @GuiBarbosa72
 @alvesdiogodev
+@iriscaetano546-dot
+@Emersonbrbs
 @luckylut
+
 
 
 ---
