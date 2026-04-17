@@ -50,6 +50,8 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @th_xt10
 @IgorBarretodeLima
 @GustavoOliveira08
+@thiago-p23
+
 
 
 ---
