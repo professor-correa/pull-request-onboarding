@@ -63,7 +63,7 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @luckylut
 @GuilhermeMFerreira
 @ryanjesusamorim
-
+@AdlerGamerPvP
 
 ---
 
