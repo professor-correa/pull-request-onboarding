@@ -47,7 +47,10 @@ Ao seguir o tutorial abaixo, você vai adicionar o seu @ aqui:
 @GuilhermeFontanag
 @VictorCorrea-dev
 @PabloDEV27
+@th_xt10
 @IgorBarretodeLima
+
+
 
 ---
 
